@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'WC developer handbook for JP'
+copyright = '2022, Shohei Tanaka'
+author = 'Shohei Tanaka'
 
 release = '0.1'
 version = '0.1.0'
@@ -20,8 +20,8 @@ extensions = [
 ]
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'WooCommerce': ('https://woocommerce.com/', None),
+    'WordPress': ('https://ja.wordpress.org/', None),
 }
 intersphinx_disabled_domains = ['std']
 
@@ -29,7 +29,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
+html_theme = 'wc_dev_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
