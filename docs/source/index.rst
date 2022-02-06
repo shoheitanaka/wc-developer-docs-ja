@@ -10,6 +10,10 @@ Welcome to WooCommerce 開発者向けドキュメント
 公式サイトである　`WooCommerce <https://woocommerce.com/>`_　では、さまざまな拡張プラグインが販売紹介されています。このサイトはマーケットプレイスの形式になっており、開発して販売することが可能になります。
 そこで、このサイトで販売するためのハンドブックがあるので、それの日本語翻訳を作ることにしました。参考にご覧ください。
 
+基本的には以下のサイトを翻訳（意訳）したものとお考えください。
+
+`WooCommerce Marketplace <https://woocommerce.com/documentation/plugins/woocommerce/marketplace/>`_
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
