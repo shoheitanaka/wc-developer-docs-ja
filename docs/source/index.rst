@@ -27,5 +27,6 @@ Contents
 
 .. toctree::
 
+   developing-using-woocommerce-crud-objects
    usage
    api
