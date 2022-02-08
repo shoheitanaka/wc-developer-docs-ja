@@ -7,5 +7,3 @@ WooCommerce CRUD オブジェクトを利用して開発をする
 
 .. autosummary::
    :toctree: generated
-
-   lumache
